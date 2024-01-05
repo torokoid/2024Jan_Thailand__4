@@ -181,8 +181,8 @@ p.note { display: none; }
 <a href="20240105_029.JPG" data-lightbox="abc"><img src="20240105_029.JPG" alt="サンプル画像" width="900" /></a>
 <p>前回は外から眺めた車のディーラー、中で写真撮ったらGWMのタイ語HPに飛びます</p>
 <a href="20240105_030.JPG" data-lightbox="abc"><img src="20240105_030.JPG" alt="サンプル画像" width="900" /></a>
-https://cdn-h5-html.gwmcloud.com/html/sharePage.html
-<p class="topicpath"><a href="https://cdn-h5-html.gwmcloud.com/html/sharePage.html">GWN_Thailand</a>
+
+<p class="topicpath"><a href="https://cdn-h5-html.gwmcloud.com/html/sharePage.html">GWN_Thailand、リンク</a>
 <a href="20240105_031.JPG" data-lightbox="abc"><img src="20240105_031.JPG" alt="サンプル画像" width="900" /></a>
 <p>最後はDONKIでお買い物</p> 
 <a href="20240105_032.JPG" data-lightbox="abc"><img src="20240105_032.JPG" alt="サンプル画像" width="900" /></a>
