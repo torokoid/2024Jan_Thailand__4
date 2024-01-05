@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(20240104_027.JPG) center/cover no-repeat;
+background:url(20240105_002.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -131,67 +131,41 @@ p.note { display: none; }
 <br><p>バンコク観光</p>
 
 <p>やぼ用で役場に立ち寄ります<br>駐車場係は集金と合わせて果物販売、駐車場代40バーツを払うとマスクがサービスされました</p>
-<a href="20240104_001.JPG" data-lightbox="abc"><img src="20240104_001.JPG" alt="サンプル画像" width="900" /></a>
-<p>役場の中は、食べかけのお弁当</p>
-<a href="20240104_002.JPG" data-lightbox="abc"><img src="20240104_002.JPG" alt="サンプル画像" width="900" /></a>
-<p>充電・放置のスマホと、ゆる〜い状態です</p>
-<a href="20240104_003.JPG" data-lightbox="abc"><img src="20240104_003.JPG" alt="サンプル画像" width="900" /></a>
-<p>タイ人の肥満度合いは凄いレベル、街中で見かける確率は10％弱位ですかね〜</p>
-<a href="20240104_004.JPG" data-lightbox="abc"><img src="20240104_004.JPG" alt="サンプル画像" width="900" /></a>
-<p>仏壇はもれなく設置されてます</p>
-<a href="20240104_005.JPG" data-lightbox="abc"><img src="20240104_005.JPG" alt="サンプル画像" width="900" /></a>
-<p>お昼休みなので、近所の食堂でお昼・・・60バーツ</p>
-<a href="20240104_006.JPG" data-lightbox="abc"><img src="20240104_006.JPG" alt="サンプル画像" width="900" /></a>
-<p>食堂の時計はSEIKOですが、電波時計ではなさそうでした</p>
-<a href="20240104_007.JPG" data-lightbox="abc"><img src="20240104_007.JPG" alt="サンプル画像" width="900" /></a>
-<p>銀行や公共施設で必ず見かける、王室崇拝のオブジェ、ここは特に立派でした</p>
-<a href="20240104_008.JPG" data-lightbox="abc"><img src="20240104_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240104_009.JPG" data-lightbox="abc"><img src="20240104_009.JPG" alt="サンプル画像" width="900" /></a>
-<p>現在の王様</p>
-<a href="20240104_010.JPG" data-lightbox="abc"><img src="20240104_010.JPG" alt="サンプル画像" width="900" /></a>
-<p>王様の家族たち</p>
-<a href="20240104_011.JPG" data-lightbox="abc"><img src="20240104_011.JPG" alt="サンプル画像" width="900" /></a>
-<p>王様の別アングル映像</p>
-<a href="20240104_012.JPG" data-lightbox="abc"><img src="20240104_012.JPG" alt="サンプル画像" width="900" /></a>
-<p>玄関の外では犬が暑さでダウン、タイの犬は全て放し飼いです</p>
-<a href="20240104_013.JPG" data-lightbox="abc"><img src="20240104_013.JPG" alt="サンプル画像" width="900" /></a>
-<p>街中の仏壇も高層ビルバックにパチリ</p>
-<a href="20240104_014.JPG" data-lightbox="abc"><img src="20240104_014.JPG" alt="サンプル画像" width="900" /></a>
-<p>仏壇へのお供物は、欠かさずされています</p>
-<a href="20240104_015.JPG" data-lightbox="abc"><img src="20240104_015.JPG" alt="サンプル画像" width="900" /></a>
-<p>幹線道路で突然の大渋滞</p>
-<a href="20240104_016.JPG" data-lightbox="abc"><img src="20240104_016.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240104_017.JPG" data-lightbox="abc"><img src="20240104_017.JPG" alt="サンプル画像" width="900" /></a>
-<p>事故渋滞でした</p>
-<a href="20240104_018.JPG" data-lightbox="abc"><img src="20240104_018.JPG" alt="サンプル画像" width="900" /></a>
-<p>追突事故ですね</p>
-<a href="20240104_019.JPG" data-lightbox="abc"><img src="20240104_019.JPG" alt="サンプル画像" width="900" /></a>
-<p>50バーツの高級アイス、まあ200円ですが・・・</p>
-<a href="20240104_020.JPG" data-lightbox="abc"><img src="20240104_020.JPG" alt="サンプル画像" width="900" /></a>
-<p>巨大ショッピングモールに立ち寄ります</p>
-<a href="20240104_021.JPG" data-lightbox="abc"><img src="20240104_021.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240104_022.JPG" data-lightbox="abc"><img src="20240104_022.JPG" alt="サンプル画像" width="900" /></a>
-<p>なんと、KUMONが進出してます</p>
-<a href="20240104_023.JPG" data-lightbox="abc"><img src="20240104_023.JPG" alt="サンプル画像" width="900" /></a>
-<p>ダイソーもありますね</p>
-<a href="20240104_024.JPG" data-lightbox="abc"><img src="20240104_024.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240104_025.JPG" data-lightbox="abc"><img src="20240104_025.JPG" alt="サンプル画像" width="900" /></a>
-
-<a href="20240104_026.JPG" data-lightbox="abc"><img src="20240104_026.JPG" alt="サンプル画像" width="900" /></a>
-<p>小学生の女の子たちは、出店で家族のお手伝い</p>
-<a href="20240104_027.JPG" data-lightbox="abc"><img src="20240104_027.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240104_028.JPG" data-lightbox="abc"><img src="20240104_028.JPG" alt="サンプル画像" width="900" /></a>
-<p>アジア特産のブランド品コピー</p>
-<a href="20240104_029.JPG" data-lightbox="abc"><img src="20240104_029.JPG" alt="サンプル画像" width="900" /></a>
-<p>夕食はこちらの屋台で調達しました</p>
-<a href="20240104_030.JPG" data-lightbox="abc"><img src="20240104_030.JPG" alt="サンプル画像" width="900" /></a>
-<p>晩ご飯メニュー</p>
-<a href="20240104_031.JPG" data-lightbox="abc"><img src="20240104_031.JPG" alt="サンプル画像" width="900" /></a>
-<p>ワインはコンビニで調達</p>
-<a href="20240104_032.JPG" data-lightbox="abc"><img src="20240104_032.JPG" alt="サンプル画像" width="900" /></a>
-<p>バンコクの夕暮れを眺めながらの晩餐でした</p>
-<a href="20240104_033.JPG" data-lightbox="abc"><img src="20240104_033.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240104_034.JPG" data-lightbox="abc"><img src="20240104_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_001.JPG" data-lightbox="abc"><img src="20240105_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_002.JPG" data-lightbox="abc"><img src="20240105_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_003.JPG" data-lightbox="abc"><img src="20240105_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_004.JPG" data-lightbox="abc"><img src="20240105_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_005.JPG" data-lightbox="abc"><img src="20240105_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_006.JPG" data-lightbox="abc"><img src="20240105_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_007.JPG" data-lightbox="abc"><img src="20240105_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_008.JPG" data-lightbox="abc"><img src="20240105_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_009.JPG" data-lightbox="abc"><img src="20240105_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_010.JPG" data-lightbox="abc"><img src="20240105_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_011.JPG" data-lightbox="abc"><img src="20240105_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_012.JPG" data-lightbox="abc"><img src="20240105_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_013.JPG" data-lightbox="abc"><img src="20240105_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_014.JPG" data-lightbox="abc"><img src="20240105_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_015.JPG" data-lightbox="abc"><img src="20240105_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_016.JPG" data-lightbox="abc"><img src="20240105_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_017.JPG" data-lightbox="abc"><img src="20240105_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_018.JPG" data-lightbox="abc"><img src="20240105_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_019.JPG" data-lightbox="abc"><img src="20240105_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_020.JPG" data-lightbox="abc"><img src="20240105_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_021.JPG" data-lightbox="abc"><img src="20240105_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_022.JPG" data-lightbox="abc"><img src="20240105_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_023.JPG" data-lightbox="abc"><img src="20240105_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_024.JPG" data-lightbox="abc"><img src="20240105_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_025.JPG" data-lightbox="abc"><img src="20240105_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_026.JPG" data-lightbox="abc"><img src="20240105_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_027.JPG" data-lightbox="abc"><img src="20240105_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_028.JPG" data-lightbox="abc"><img src="20240105_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_029.JPG" data-lightbox="abc"><img src="20240105_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_030.JPG" data-lightbox="abc"><img src="20240105_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_031.JPG" data-lightbox="abc"><img src="20240105_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_032.JPG" data-lightbox="abc"><img src="20240105_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_033.JPG" data-lightbox="abc"><img src="20240105_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_034.JPG" data-lightbox="abc"><img src="20240105_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240105_035.JPG" data-lightbox="abc"><img src="20240105_035.JPG" alt="サンプル画像" width="900" /></a>
 
 <!--
 <br><br><p>以下写真集！</p>
