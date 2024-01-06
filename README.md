@@ -129,46 +129,46 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 <br><p>バンコク観光</p>
-<h2><span class="blue">1日に探索した巨大ショッピングモールを再度訪問<br>前回は完全に迷子になり、セキュリティーに駐車場の位置を教えてもう羽目になりましたが、今回はリベンジ！</span></h2>
+<h2><span class="yellow">1日に探索した巨大ショッピングモールを再度訪問<br>前回は完全に迷子になり、セキュリティーに駐車場の位置を教えてもう羽目になりましたが、今回はリベンジ！</span></h2>
 <a href="20240105_001.JPG" data-lightbox="abc"><img src="20240105_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240105_002.JPG" data-lightbox="abc"><img src="20240105_002.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">家電売り場のマウスは何故か日本語表示のまま（日本人ターゲット？）</span></h2>
+<h2><span class="yellow">家電売り場のマウスは何故か日本語表示のまま（日本人ターゲット？）</span></h2>
 <a href="20240105_003.JPG" data-lightbox="abc"><img src="20240105_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240105_004.JPG" data-lightbox="abc"><img src="20240105_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240105_005.JPG" data-lightbox="abc"><img src="20240105_005.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">生鮮食品売り場は混雑してますね</span></h2>
+<h2><span class="yellow">生鮮食品売り場は混雑してますね</span></h2>
 <a href="20240105_006.JPG" data-lightbox="abc"><img src="20240105_006.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">レジでの会計はベルトコンベア方式</span></h2>
+<h2><span class="yellow">レジでの会計はベルトコンベア方式</span></h2>
 <a href="20240105_007.JPG" data-lightbox="abc"><img src="20240105_007.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">前の客との境には棒を置きます</span></h2>
+<h2><span class="yellow">前の客との境には棒を置きます</span></h2>
 <a href="20240105_008.JPG" data-lightbox="abc"><img src="20240105_008.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">モール内の出店では器用に食材料理してます</span></h2>
+<h2><span class="yellow">モール内の出店では器用に食材料理してます</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kaafigGGy6Q?si=Ujd15npFXYHYOTr3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<h2><span class="blue">パックで買って４０バーツ</span></h2>
+<h2><span class="yellow">パックで買って４０バーツ</span></h2>
 <a href="20240105_009.JPG" data-lightbox="abc"><img src="20240105_009.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">タイの特産Tシャツは100バーツ</span></h2>
+<h2><span class="yellow">タイの特産Tシャツは100バーツ</span></h2>
 <a href="20240105_010.JPG" data-lightbox="abc"><img src="20240105_010.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">彩りはカラフル</span></h2>
+<h2><span class="yellow">彩りはカラフル</span></h2>
 <a href="20240105_011.JPG" data-lightbox="abc"><img src="20240105_011.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">BIG CAMERAも進出中</span></h2>
+<h2><span class="yellow">BIG CAMERAも進出中</span></h2>
 <a href="20240105_012.JPG" data-lightbox="abc"><img src="20240105_012.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">カメラ付きドローンは60000バーツオーバー・・・24万円以上でした</span></h2>
+<h2><span class="yellow">カメラ付きドローンは60000バーツオーバー・・・24万円以上でした</span></h2>
 <a href="20240105_013.JPG" data-lightbox="abc"><img src="20240105_013.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">日本企業が大人気です</span></h2>
+<h2><span class="yellow">日本企業が大人気です</span></h2>
 <a href="20240105_014.JPG" data-lightbox="abc"><img src="20240105_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240105_015.JPG" data-lightbox="abc"><img src="20240105_015.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">１階のメイン広場は子供達に大人気</span></h2>
+<h2><span class="yellow">１階のメイン広場は子供達に大人気</span></h2>
 <a href="20240105_016.JPG" data-lightbox="abc"><img src="20240105_016.JPG" alt="サンプル画像" width="900" /></a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Hd8-pdhSbQ?si=VJEP-vdX27bF1sAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<h2><span class="blue">4階まで上がってみると、そこにも日本食レストラン</span></h2>
+<h2><span class="yellow">4階まで上がってみると、そこにも日本食レストラン</span></h2>
 <a href="20240105_017.JPG" data-lightbox="abc"><img src="20240105_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240105_018.JPG" data-lightbox="abc"><img src="20240105_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240105_019.JPG" data-lightbox="abc"><img src="20240105_019.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">TOTOのトイレはここで初めて見つけました</span></h2>
+<h2><span class="yellow">TOTOのトイレはここで初めて見つけました</span></h2>
 <a href="20240105_020.JPG" data-lightbox="abc"><img src="20240105_020.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">5階まで上がると駐車場でしたので、下に戻ります</span></h2>
+<h2><span class="yellow">5階まで上がると駐車場でしたので、下に戻ります</span></h2>
 <a href="20240105_021.JPG" data-lightbox="abc"><img src="20240105_021.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">4階はかなりの規模の遊園地です</span></h2>
+<h2><span class="yellow">4階はかなりの規模の遊園地です</span></h2>
 <a href="20240105_022.JPG" data-lightbox="abc"><img src="20240105_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240105_023.JPG" data-lightbox="abc"><img src="20240105_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240105_024.JPG" data-lightbox="abc"><img src="20240105_024.JPG" alt="サンプル画像" width="900" /></a>
@@ -176,18 +176,18 @@ p.note { display: none; }
 <a href="20240105_026.JPG" data-lightbox="abc"><img src="20240105_026.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240105_027.JPG" data-lightbox="abc"><img src="20240105_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240105_028.JPG" data-lightbox="abc"><img src="20240105_028.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">エスカレータは危険地帯らしく、様々な規制がかかってます</span></h2>
+<h2><span class="yellow">エスカレータは危険地帯らしく、様々な規制がかかってます</span></h2>
 <a href="20240105_029.JPG" data-lightbox="abc"><img src="20240105_029.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">前回は外から眺めた車のディーラー、中で写真撮ったらGWMのタイ語HPに飛びます</span></h2>
+<h2><span class="yellow">前回は外から眺めた車のディーラー、中で写真撮ったらGWMのタイ語HPに飛びます</span></h2>
 <a href="20240105_030.JPG" data-lightbox="abc"><img src="20240105_030.JPG" alt="サンプル画像" width="900" /></a>
 
 <p class="topicpath"><a href="https://cdn-h5-html.gwmcloud.com/html/sharePage.html" target="_blank">https://cdn-h5-html.gwmcloud.com/html/sharePage.html_リンク</a>
 <a href="20240105_031.JPG" data-lightbox="abc"><img src="20240105_031.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">最後はDONKIでお買い物</span></h2>
+<h2><span class="yellow">最後はDONKIでお買い物</span></h2>
 <a href="20240105_032.JPG" data-lightbox="abc"><img src="20240105_032.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">ショッピングモールの定番、EVチャージステーション</span></h2>
+<h2><span class="yellow">ショッピングモールの定番、EVチャージステーション</span></h2>
 <a href="20240105_033.JPG" data-lightbox="abc"><img src="20240105_033.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">仏壇も当然あります</span></h2>
+<h2><span class="yellow">仏壇も当然あります</span></h2>
 <a href="20240105_034.JPG" data-lightbox="abc"><img src="20240105_034.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240105_035.JPG" data-lightbox="abc"><img src="20240105_035.JPG" alt="サンプル画像" width="900" /></a>
 
